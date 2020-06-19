@@ -4,6 +4,7 @@ I will upload the coruse's PDF files and the information I find on the internet 
 
 ## The PDF files
 [D1_機械學習概論-資料介紹與評估指標](https://ai100-fileentity.cupoy.com/ml100/dailytask/1586225294139/1586225294140/__PDF__?t=1582799886993)
+
 [D2_機械學習概論(申論題)](https://ai100-fileentity.cupoy.com/ml100/dailytask/1586225294141/1586225294141/__PDF__?t=1582799886993)
 
 ## Learning process of Machine Learning
