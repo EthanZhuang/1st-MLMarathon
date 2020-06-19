@@ -1,5 +1,5 @@
 # ML_Marathon
-This is a github for sharing the ML Marathon online cources which held on the CUPOY. 
+This is a github for sharing the ML Marathon online cources which held by CUPOY. 
 I will upload the coruse's PDF files and the information I find on the internet for those who want to foster the ability of ML of Python. If you are also struggling with the questions in this courses, please feel free to send me a message via LinkedIn(https://www.linkedin.com/in/ethanzhuang/). I am glad to coorperate with people who aspire to complete this course.    
 
 ## The PDF files
